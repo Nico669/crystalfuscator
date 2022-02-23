@@ -1,6 +1,8 @@
 {
   "name": "crystalfuscator",
-  "version": "1.0.0",
-  "description": "simple roblox obfuscator",
-  "main": "bot.py"
+  "author": "nico",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
 }
