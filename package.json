@@ -3,7 +3,4 @@
   "version": "1.0.0",
   "description": "simple roblox obfuscator",
   "main": "bot.py"
-  "scripts": {
-  "test": "echo \Error: no test specified\" && exit 1"
-},
 }
